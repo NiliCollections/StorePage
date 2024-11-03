@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" LD01 Cloth",
+        "price": 200,
+        "image": "image/11.jpeg"
+    },
+    {
+        "id": 2,
+        "name":" LD02 Cloth",
+        "price": 250,
+        "image": "image/12.jpeg"
+    },
+    {
+        "id": 3,
+        "name":" LD03 Cloth",
+        "price": 290,
+        "image": "image/13.jpeg"
+    },
+    {
+        "id": 4,
+        "name":" LD04 Cloth",
+        "price": 200,
+        "image": "image/14.jpeg"
+    },
+    {
+        "id": 5,
+        "name":" LD05 Cloth",
+        "price": 300,
+        "image": "image/15.jpeg"
+    },
+    {
+        "id": 6,
+        "name":" LD06 Cloth",
+        "price": 200,
+        "image": "image/14.png"
+    },
+    {
+        "id": 7,
+        "name":" LD07 Cloth",
+        "price": 200,
+        "image": "image/17.png"
+    },
+    {
+        "id": 8,
+        "name":" LD08 Cloth",
+        "price": 200,
+        "image": "image/8.jpeg"
+    }
+
+]
